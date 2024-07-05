@@ -1,0 +1,109 @@
+header {
+    background-color: #1284FB;
+    height: 120px;
+    margin-bottom: 40px;
+      margin-top: -22px;
+}
+
+header img {
+    height: 100px;
+    margin: 10px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 40px;
+    font-size: 28px;
+}
+
+body {
+    margin: 0px;
+    background-image: url(https://bpb-us-e2.wpmucdn.com/newsevents.illinoisstate.edu/dist/c/2/files/2022/03/Ukraine-flag-colors.jpg)
+}
+
+.golovna {
+    border: ;
+}
+
+footer{
+    position: relative;
+    padding: 50px 50px 20px;
+    background-color: #3586ff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    color: white;
+}
+
+footer a {
+    color: white;
+    padding: 0px 5px;
+    text-decoration: none;
+}
+
+.iframe {
+text-align: center;
+}
+
+main {
+    margin: 20px;
+}
+
+nav {
+    background-color: yellow;
+    border-top: black solid 3px;
+    border-bottom: black solid 3px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 40px;
+}
+
+nav a {
+    color: #0030f1;
+text-decoration: none;
+font-size: 20px;
+}
+
+nav a:hover {
+    color: #0025bb;
+    transform: translateY(-2px);
+    transition: 0.2s linear;
+    border-bottom: 2px dashed #0025bb;
+}
+
+footer img {
+    border-radius: 50%;
+    padding: 5px;
+}
+
+section {
+    text-align: center;
+}
+
+section p, section ul{
+    text-align: justify;
+}
+
+footer a:hover {
+    text-shadow: 4px 2px darkblue;
+}
+
+section h1:hover {
+    color: #0025bb;
+    text-shadow: 4px 2px yellow;
+    
+}
+
+p, ul {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 24px;
+}
